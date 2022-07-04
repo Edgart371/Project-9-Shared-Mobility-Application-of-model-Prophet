@@ -1,0 +1,27 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# Ignore Mac system files
+*.DS_store
+
+# Ignore Mac system files
+*.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
+
+#Ignore all bkp files
+*.bkp
+
+#Ignore large files
+.ipynb_checkpoints/Version2-checkpoint.ipyn
+
+*.ipynb_checkpoints/Version2-checkpoint.ipyn
+
+Version2.ipynb
