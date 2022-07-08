@@ -33,8 +33,7 @@ Dint deleted outliers, that existed on the weather values.
 
 With all of the necessary information and cleaned, prepared data then applied the model for time series prophet.
 
-- Prophet (https://facebook.github.io/prophet/)
-		Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+- Prophet (https://facebook.github.io/prophet/) is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 
 To recieve the best possible outcome of our model (also regarding the precious business in this case --> importanc of finding the best parameters to be applyed on the model, taking in cosideration the quantity of the data and the locations of the event.
 
